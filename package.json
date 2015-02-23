@@ -1,0 +1,29 @@
+{
+  "name": "stats.js",
+  "version": "0.0.12",
+  "description": "JavaScript Performance Monitor",
+  "main": "src/Stats.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mobdevross/stats.js.git"
+  },
+  "keywords": [
+    "stats",
+    "statistics",
+    "performance",
+    "monitor",
+    "fps"
+  ],
+  "author": "Mr Doob",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mobdevross/stats.js/issues"
+  },
+  "homepage": "https://github.com/mobdevross/stats.js"
+}
